@@ -3,22 +3,24 @@ import Todos from './components/Todos.js';
 import './App.css';
 import AddTodo from './components/AddTodo.js';
 import Header from './components/layout/Header.js';
+//uuid doesn't have an export default syntax embedded in the package
+const uuid = require('uuid');
 
 class App extends Component {
   state = {
     todos: [
       {
-        id: 1,
+        id: uuid.v4(),
         title: 'Code stuff',
         completed: false
       },
       {
-        id: 2,
+        id: uuid.v4(),
         title: 'Code more stuff',
         completed: false
       },
       {
-        id: 3,
+        id: uuid.v4(),
         title: 'Code a lot more stuff',
         completed: false
       },
@@ -52,7 +54,7 @@ class App extends Component {
   addTodo = (title) => {
     // console.log(title);
     const newTodo = {
-      id: 4,
+      id: uuid.v4(),
       title,
       completed: false
     }
