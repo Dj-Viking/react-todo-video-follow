@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo-video-follow/static/css/main.0dcc4e88.chunk.css",
+    "main.js": "/react-todo-video-follow/static/js/main.9fc0e99c.chunk.js",
+    "main.js.map": "/react-todo-video-follow/static/js/main.9fc0e99c.chunk.js.map",
+    "runtime-main.js": "/react-todo-video-follow/static/js/runtime-main.1c95476e.js",
+    "runtime-main.js.map": "/react-todo-video-follow/static/js/runtime-main.1c95476e.js.map",
+    "static/js/2.8e769596.chunk.js": "/react-todo-video-follow/static/js/2.8e769596.chunk.js",
+    "static/js/2.8e769596.chunk.js.map": "/react-todo-video-follow/static/js/2.8e769596.chunk.js.map",
+    "index.html": "/react-todo-video-follow/index.html",
+    "precache-manifest.22e6816cb6cc1ec5ce0674a73e2b77cc.js": "/react-todo-video-follow/precache-manifest.22e6816cb6cc1ec5ce0674a73e2b77cc.js",
+    "service-worker.js": "/react-todo-video-follow/service-worker.js",
+    "static/css/main.0dcc4e88.chunk.css.map": "/react-todo-video-follow/static/css/main.0dcc4e88.chunk.css.map",
+    "static/js/2.8e769596.chunk.js.LICENSE.txt": "/react-todo-video-follow/static/js/2.8e769596.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c95476e.js",
+    "static/js/2.8e769596.chunk.js",
+    "static/css/main.0dcc4e88.chunk.css",
+    "static/js/main.9fc0e99c.chunk.js"
+  ]
+}
